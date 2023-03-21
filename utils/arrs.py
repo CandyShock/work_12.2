@@ -12,7 +12,7 @@ def get(array, index, default=None):
     :return: значение по индексу или значение по-умолчанию.
     """
     if len(array) == 0:
-        """new code"""
+        """new codes"""
         return default
 
     return array[index]
